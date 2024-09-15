@@ -31,3 +31,4 @@ C:\Users\Yarlley\Documents\Programação\moduloAPI\obj\Debug\net8.0\refint\modul
 C:\Users\Yarlley\Documents\Programação\moduloAPI\obj\Debug\net8.0\moduloAPI.pdb
 C:\Users\Yarlley\Documents\Programação\moduloAPI\obj\Debug\net8.0\moduloAPI.genruntimeconfig.cache
 C:\Users\Yarlley\Documents\Programação\moduloAPI\obj\Debug\net8.0\ref\moduloAPI.dll
+C:\Users\Yarlley\Documents\Programação\moduloAPI\obj\Debug\net8.0\moduloAPI.sourcelink.json
